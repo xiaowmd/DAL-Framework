@@ -1,0 +1,136 @@
+**谢邀，**
+
+**一言以蔽之，根据最新的国内外诊疗指南，类风湿性关节炎最靠谱的治疗就是达标治疗**<sup data-text="中华医学会风湿病学分会. 2018中国类风湿关节炎诊疗指南[J]. 中华内科杂志, 2018(4):242-251." data-url="" data-numero="1" data-draft-node="inline" data-draft-type="reference" data-tooltip="中华医学会风湿病学分会. 2018中国类风湿关节炎诊疗指南[J]. 中华内科杂志, 2018(4):242-251." data-tooltip-preset="white" data-tooltip-classname="ztext-referene-tooltip"><a id="ref_1_0" href="https://www.zhihu.com/question/21343107#ref_1" data-reference-link="true" aria-labelledby="ref_1">[1]</a></sup>**。**
+
+<u><i>什么是类风湿性关节炎？</i></u>
+
+<u><i>类风湿性关节炎的常用药物有哪些？</i></u>
+
+<u><i>什么是达标治疗？</i></u>
+
+<u><i>为什么只有达标治疗能有效降低致残率？</i></u>
+
+如果您对这些问题感兴趣，请耐心看完这个回答。
+
+## **什么是类风湿性关节炎**
+
+很多人认为但凡病名中含有“风湿”二字，就是指天气变化时腰酸腿疼的病症。事实上，在人类医学实践的早期阶段，一直是把现代医学概念中的风湿性关节炎、类风湿性关节炎和普通关节痛混为一谈的。
+
+一直到1858年，英国医生[加罗德](https://www.zhihu.com/search?q=%E5%8A%A0%E7%BD%97%E5%BE%B7&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)（Alfred Baring Garrod）才发现在众多以关节痛和功能障碍为主要临床表现的疾病中有一类和传统意义上的“风湿”有明显不同，才第一次使用了类风湿性关节炎（Rheumatoid Arthritis，RA）这个名称。1896年舍费尔和雷蒙才第一次将其定义为一种新的疾病。随着1940年瓦勒发现[类风湿因子](https://www.zhihu.com/search?q=%E7%B1%BB%E9%A3%8E%E6%B9%BF%E5%9B%A0%E5%AD%90&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)，才从实验诊断学的角度确定了该疾病的独立地位。
+
+![](https://pic1.zhimg.com/50/v2-007312d09472cf3b2c40e241e7fdd4ac_720w.jpg?source=1def8aca)
+
+类风湿性关节炎——数千年来的认识变迁（图片来源：[http://www.jointhealth.org/](https://link.zhihu.com/?target=http%3A//www.jointhealth.org/)）
+
+所以，人类对类风湿性关节炎的认识是最近一个多世纪才走上了正轨，也无怪乎大众对这种疾病有诸多误解。
+
+其中最多的一个误解是关节痛、运动障碍要人老了才会出现，年轻人“关节炎”很少见。
+
+然而类风湿性关节炎好发年龄段为30-60岁，亦可发生于任何年龄，甚至儿童期亦可发病。并且发病率（大陆地区）达到 0.42%，女性由于雌激素作用发病率略高，男女之比约为1:2~4<sup data-text="中华医学会风湿病学分会. 2018中国类风湿关节炎诊疗指南[J]. 中华内科杂志, 2018(4):242-251." data-url="" data-numero="1" data-draft-node="inline" data-draft-type="reference" data-tooltip="中华医学会风湿病学分会. 2018中国类风湿关节炎诊疗指南[J]. 中华内科杂志, 2018(4):242-251." data-tooltip-preset="white" data-tooltip-classname="ztext-referene-tooltip"><a id="ref_1_1" href="https://www.zhihu.com/question/21343107#ref_1" data-reference-link="true" aria-labelledby="ref_1">[1]</a></sup>。
+
+## **既然类风湿性关节炎有别于风湿病和普通关节痛，那它是如何损害机体的呢？**
+
+[类风湿性关节炎](https://www.zhihu.com/search?q=%E7%B1%BB%E9%A3%8E%E6%B9%BF%E6%80%A7%E5%85%B3%E8%8A%82%E7%82%8E&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)是一种自身免疫性疾病。简言之，就是免疫系统将人体关节部位的结缔组织认定为外来异物或者病原体而发起免疫攻击，造成这些关节部位炎症反应和组织损伤。最终形成不可逆的畸形、功能丧失，导致残疾。
+
+![](https://picx.zhimg.com/50/v2-1593672bdd777b5fb9a207e5a9f2bcc5_720w.jpg?source=1def8aca)
+
+类风湿性关节炎不同进展阶段，来源见水印
+
+上面的图示非常形象，最左侧的是健康关节[示意图](https://www.zhihu.com/search?q=%E7%A4%BA%E6%84%8F%E5%9B%BE&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)，向右则是类风湿性关节炎发展的不同阶段：
+
+**1，[滑膜炎](https://www.zhihu.com/search?q=%E6%BB%91%E8%86%9C%E7%82%8E&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)**：关节滑膜炎症反应，表现为充血肿胀、功能异常，关节滑液分泌异常，导致关节软骨受损。这时候病人的临床表现为关节肿痛，轻度活动障碍。
+
+**2，关节内血管翳**：随着自身免疫的继续发展，关节腔边缘开始长出血管翳并逐渐覆盖整个关节软骨。一方面阻断关节软骨和滑液的接触，同时也影响到关节软骨的营养供应，导致关节软骨的严重破坏。这时病人会表现出更加明显的关节疼痛和活动障碍。
+
+**3，[关节纤维化](https://www.zhihu.com/search?q=%E5%85%B3%E8%8A%82%E7%BA%A4%E7%BB%B4%E5%8C%96&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)**：随着关节软骨的破坏，纤维组织替代原有正常组织，将关节两侧的骨黏连在一起，使关节丧失了原有的活动功能。
+
+**4，骨性僵硬**：最终，纤维组织钙化，关节两侧的骨被病理性骨组织彻底固定，关节功能完全丧失。
+
+由此可见，类风湿性关节炎一旦发病，免疫系统就会针对关节软组织（主要是滑膜）发起持续的免疫攻击，直到滑膜组织彻底被摧毁。而滑膜组织一旦损毁，关节软骨和整个关节也就报废了。所以类风湿性关节炎是可以致残的。我国学者2013年的研究报告指出，我国类风湿性关节炎患者在病程1-5年、5-10年、10-15年及≥15年的致残率分别为18.6％、43.5％、48.1％、61.3％，随着病程的延长，残疾及功能受限发生率升高<sup data-text="周云杉, 王秀茹, 安媛,等. 全国多中心类风湿关节炎患者残疾及功能受限情况的调查[J]. 中华风湿病学杂志, 2013, 17(8):526-532." data-url="" data-numero="2" data-draft-node="inline" data-draft-type="reference" data-tooltip="周云杉, 王秀茹, 安媛,等. 全国多中心类风湿关节炎患者残疾及功能受限情况的调查[J]. 中华风湿病学杂志, 2013, 17(8):526-532." data-tooltip-preset="white" data-tooltip-classname="ztext-referene-tooltip"><a id="ref_2_0" href="https://www.zhihu.com/question/21343107#ref_2" data-reference-link="true" aria-labelledby="ref_2">[2]</a></sup>。
+
+因为类风湿性关节炎的致残率很高，所以我们必须要提高重视。而最积极有效的应对就是**早发现、及早进行达标治疗**，控制或延缓疾病的发展速度，这样才能降低致残率，提高患者的生存质量。
+
+## **类风湿性关节炎的达标治疗概念及其重要临床意义**
+
+前面提到的“达标治疗”（Treat-to-Target）是在该疾病治疗领域很重要的一个概念：以病情缓解（包括临床缓解和影像学缓解）作为治疗目标，采取各种积极有效的治疗，在一定时间内将炎症或病情活动度降至较低水平或达到临床缓解。简言之，就是说把炎症反应压制到最低水平，这样才能控制病情进展，算得上“达标”。
+
+之所以很多医学科普平台都在不遗余力地宣传达标治疗理念，是因为公众和不少患者对类风湿性关节炎的认识还存在诸多误区：
+
+**误区一：类风湿性关节炎也就是关节痛疼，吃止疼药控制一下就行。**其实类风湿性关节炎的关节损害是不可逆的，而且致残率很高。止痛药仅仅阻断炎症因子对神经的刺激，并不能阻止免疫系统对关节的持续攻击。关节损伤还在继续。
+
+**误区二：类风湿性关节炎没有很好的治疗方法，得了就等着残废。**这种悲观看法在很多患病多年并出现一定程度关节僵硬的患者中很常见。然而，进入新世纪以来，治疗类风湿性关节炎的药物研发取得了长足进步，而且治疗理念也在发生相应变化。最近几年成为主流的达标治疗可以有效降低致残率，所以2018年纳入到现行最新版中国诊疗指南<sup data-text="中华医学会风湿病学分会. 2018中国类风湿关节炎诊疗指南[J]. 中华内科杂志, 2018(4):242-251." data-url="" data-numero="1" data-draft-node="inline" data-draft-type="reference" data-tooltip="中华医学会风湿病学分会. 2018中国类风湿关节炎诊疗指南[J]. 中华内科杂志, 2018(4):242-251." data-tooltip-preset="white" data-tooltip-classname="ztext-referene-tooltip"><a id="ref_1_2" href="https://www.zhihu.com/question/21343107#ref_1" data-reference-link="true" aria-labelledby="ref_1">[1]</a></sup>。
+
+**误区三：治疗类风湿性关节炎的药物都是止疼的。**其实可以分为两大类，即[非甾体类抗炎药](https://www.zhihu.com/search?q=%E9%9D%9E%E7%94%BE%E4%BD%93%E7%B1%BB%E6%8A%97%E7%82%8E%E8%8D%AF&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)（NSAIDS）和改善病情抗风湿药物（DMARDs）。后者除了经典的[金制剂](https://www.zhihu.com/search?q=%E9%87%91%E5%88%B6%E5%89%82&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)、[氯喹](https://www.zhihu.com/search?q=%E6%B0%AF%E5%96%B9&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)、青霉胺、免疫抑制剂等药物之外还包括[生物制剂](https://www.zhihu.com/search?q=%E7%94%9F%E7%89%A9%E5%88%B6%E5%89%82&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)（bDMARDs）和小分子靶向药（tsDMARDs）。这几类药物各有各的作用，**要遵医嘱组合用药才能达到理想的达标治疗，降低致残率**。（后面我会简单介绍它们的不同药理作用，帮助大家理解为什么治疗类风湿性关节炎的过程中不同药物要联用或者替换）
+
+非独国内的诊疗标准，国外，例如欧洲风湿病防治联合会（European League Against Rheumatism， EULAR）也在2019<sup data-text="Smolen, J. S. et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2019 update. Ann. Rheum. Dis." data-url="" data-numero="3" data-draft-node="inline" data-draft-type="reference" data-tooltip="Smolen, J. S. et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2019 update. Ann. Rheum. Dis." data-tooltip-preset="white" data-tooltip-classname="ztext-referene-tooltip"><a id="ref_3_0" href="https://www.zhihu.com/question/21343107#ref_3" data-reference-link="true" aria-labelledby="ref_3">[3]</a></sup>版本的诊疗指南中将达标治疗放在了极其重要的地位。
+
+## **认识类风湿性关节炎用药**
+
+类风湿性关节炎以内科治疗为主，达标治疗离不开形形色色的药物。在这里，我将结合疾病发生的机制用尽可能通俗的语言讲一下不同药物的作用机理，帮助大家进一步理解达标治疗。
+
+**一，[非甾体抗炎药](https://www.zhihu.com/search?q=%E9%9D%9E%E7%94%BE%E4%BD%93%E6%8A%97%E7%82%8E%E8%8D%AF&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)（NSAIDs）**
+
+这类药物也称[解热镇痛抗炎药](https://www.zhihu.com/search?q=%E8%A7%A3%E7%83%AD%E9%95%87%E7%97%9B%E6%8A%97%E7%82%8E%E8%8D%AF&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)，顾名思义，可以退热、镇痛、对抗炎症反应。主要抑制环氧化酶（COX）使前腺素生成受抑制而起作用，以达到消炎为止痛的效果。但不能阻止类风湿性关节炎病变的自然过程。所以仅用于轻症和早期患者。常见的药物如布洛芬、[阿司匹林](https://www.zhihu.com/search?q=%E9%98%BF%E5%8F%B8%E5%8C%B9%E6%9E%97&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)、[吲哚美辛](https://www.zhihu.com/search?q=%E5%90%B2%E5%93%9A%E7%BE%8E%E8%BE%9B&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)等。
+
+**二，改善病情抗风湿药物（DMARDs）**<sup data-text="葛均波，徐永健. 内科学[M]. 8版. 北京：人民卫生出版社，2019." data-url="" data-numero="4" data-draft-node="inline" data-draft-type="reference" data-tooltip="葛均波，徐永健. 内科学[M]. 8版. 北京：人民卫生出版社，2019." data-tooltip-preset="white" data-tooltip-classname="ztext-referene-tooltip"><a id="ref_4_0" href="https://www.zhihu.com/question/21343107#ref_4" data-reference-link="true" aria-labelledby="ref_4">[4]</a></sup>
+
+有别于NSAIDs，DMARDs则是着力于抗炎及免疫调节或免疫抑制作用，改变风湿病患者的病情，延缓疾病进展。虽然不像NSAIDs和激素那样效果“立竿见影”，却是针对病因的治疗，即NSAIDs和激素主要“治标”，而DMARDs则“治本”。
+
+这类药可谓是包罗万象，从最早的金制剂、氯喹，到后来的青霉胺、[氨甲喋呤](https://www.zhihu.com/search?q=%E6%B0%A8%E7%94%B2%E5%96%8B%E5%91%A4&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)，然后是新世纪以来的依那西普、[阿达木单抗](https://www.zhihu.com/search?q=%E9%98%BF%E8%BE%BE%E6%9C%A8%E5%8D%95%E6%8A%97&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)、巴瑞替尼等等，其大致可以分为以下几类：
+
+**1，传统DMARDs**，临床上应用历史很悠久，如金制剂、氯喹、[左旋咪唑](https://www.zhihu.com/search?q=%E5%B7%A6%E6%97%8B%E5%92%AA%E5%94%91&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)等。其实氯喹和左旋咪唑都是[抗寄生虫药](https://www.zhihu.com/search?q=%E6%8A%97%E5%AF%84%E7%94%9F%E8%99%AB%E8%8D%AF&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)，偶然发现了其抗类风湿性关节炎的作用。其实这类药物的具体作用原理至今也尚不完全清楚。它们的缺点是副作用比较明显，而且对于部分病患并没有作用。
+
+**2，[青霉胺](https://www.zhihu.com/search?q=%E9%9D%92%E9%9C%89%E8%83%BA&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)**。是青霉素的代谢产物，它能选择性抑制某些免疫细胞使IgG及IgM抗体减少。而关节内[抗原抗体复合物](https://www.zhihu.com/search?q=%E6%8A%97%E5%8E%9F%E6%8A%97%E4%BD%93%E5%A4%8D%E5%90%88%E7%89%A9&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)的产生是免疫系统损伤滑膜细胞的重要过程，所以减少抗体产生有助于改善病情。
+
+**3，免疫抑制剂。**如环磷酰胺、[硫唑嘌呤](https://www.zhihu.com/search?q=%E7%A1%AB%E5%94%91%E5%98%8C%E5%91%A4&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)、氨甲喋呤等。可以抑制细胞内的核酸合成，从而起到抑制免疫细胞增殖，抑制免疫反应的作用。这种作用同样可以作用于癌细胞、正常细胞，所以它们也属于经典化疗药物，同样具有严重的副作用。
+
+**4，天然中药活性成分。**雷公藤是一种传统中医，中医典籍描述其“苦、辛，凉，有大毒”。经现代药物化学和医学研究发现[雷公藤多甙](https://www.zhihu.com/search?q=%E9%9B%B7%E5%85%AC%E8%97%A4%E5%A4%9A%E7%94%99&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)是其有效成分，可以起到免疫抑制或细胞毒作用<sup data-text="姚骥如, 孙莹, 罗顺葵,等. 雷公藤多苷的临床应用进展[J]. 中国新药与临床杂志, 2010, 29(003):179-182." data-url="" data-numero="5" data-draft-node="inline" data-draft-type="reference" data-tooltip="姚骥如, 孙莹, 罗顺葵,等. 雷公藤多苷的临床应用进展[J]. 中国新药与临床杂志, 2010, 29(003):179-182." data-tooltip-preset="white" data-tooltip-classname="ztext-referene-tooltip"><a id="ref_5_0" href="https://www.zhihu.com/question/21343107#ref_5" data-reference-link="true" aria-labelledby="ref_5">[5]</a></sup>。同时，其副作用也比较明显。
+
+**5，生物制剂（bDMARDs）。**一般是通过遗传工程人造的蛋白质，可以与特定的细胞因子结合，或者本身就是某种细胞因子，从而影响免疫反应。所谓的细胞因子就是细胞之间传递生物信息的分子，通过细胞间的信息交换调节细胞的增殖、分化和功能。这就好比将军通过[飞鸽传书](https://www.zhihu.com/search?q=%E9%A3%9E%E9%B8%BD%E4%BC%A0%E4%B9%A6&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)指挥千军万马。而bDMARDs则可以截留这些书信，或者发送假的书信误导将军手下的部队。代表药物有[依那西普](https://www.zhihu.com/search?q=%E4%BE%9D%E9%82%A3%E8%A5%BF%E6%99%AE&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)(enbrel)，其作用是抑制一种叫做[肿瘤坏死因子](https://www.zhihu.com/search?q=%E8%82%BF%E7%98%A4%E5%9D%8F%E6%AD%BB%E5%9B%A0%E5%AD%90&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)的细胞因子。
+
+![](https://picx.zhimg.com/50/v2-c2a889bcfb45876576b285def9c67c9d_720w.jpg?source=1def8aca)
+
+图片来源：PN Bennett，MJ Brown，P Sharma. Clinical Pharmacology: 11th Edition. 2012，作者添加中文标注
+
+**1，小分子靶向药（tsDMARDs）。**是所有DMARDs中最年轻的一类，是根据细胞内重要调节蛋白的结构设计的小分子。其优势在于，相比本质为蛋白质的bDMARDs，tsDMARDs可以口服，用药更方便。比如最新的[巴瑞替尼](https://www.zhihu.com/search?q=%E5%B7%B4%E7%91%9E%E6%9B%BF%E5%B0%BC&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)（Baricitinib）和托法替布（Tofacitinib），它可以特异性阻断JAK-STAT信号通路，起到抑制免疫细胞增殖、分化的作用，同时对其他正常细胞的影响比传统DMARDs更小<sup data-text="Chatzidionysiou K , Emamikia S , Nam J , et al. Efficacy of glucocorticoids, conventional and targeted synthetic disease-modifying antirheumatic drugs: a systematic literature review informing the 2016 update of the EULAR recommendations for the management of rheumatoid arthritis.[J]. Annals of the Rheumatic Diseases, 2017:1102." data-url="" data-numero="6" data-draft-node="inline" data-draft-type="reference" data-tooltip="Chatzidionysiou K , Emamikia S , Nam J , et al. Efficacy of glucocorticoids, conventional and targeted synthetic disease-modifying antirheumatic drugs: a systematic literature review informing the 2016 update of the EULAR recommendations for the management of rheumatoid arthritis.[J]. Annals of the Rheumatic Diseases, 2017:1102." data-tooltip-preset="white" data-tooltip-classname="ztext-referene-tooltip"><a id="ref_6_0" href="https://www.zhihu.com/question/21343107#ref_6" data-reference-link="true" aria-labelledby="ref_6">[6]</a></sup>。
+
+![](https://picx.zhimg.com/50/v2-d8bcad118aa23ff0a49f746052c922f5_720w.jpg?source=1def8aca)
+
+某种靶向JAK抑制剂阻断JAK信号通路示意图来源：[https://www.olumiant.com/hcp/moa](https://link.zhihu.com/?target=https%3A//www.olumiant.com/hcp/moa)
+
+在临床工作中，医生会根据病人的具体情况合理选择上述几种药物，并且根据病人的耐受情况、使用效果做相应的调整。根据最新的国内外诊疗指南，综合利用上述几大类药物的目的只有一个——达标治疗，因为只有这样才能控制病情进展，提高患者生活质量。
+
+## **类风湿性关节炎的自测**
+
+我们说了这么多关于类风湿性关节炎的严重性，而且这个病是越早发现越早治疗，疾病结局也就越好。所以这里给大家提供一个简单的**自测方法**：
+
+**下述7项中4项者可诊为类风湿性关节炎**
+
+_<u>① 有三个或三个以上的关节肿，至少６周；</u>_
+
+_<u>② 晨僵（早上起来关节僵硬）至少一小时（每天），持续至少６周；</u>_
+
+_<u>③ 腕、掌指、<span><a data-za-not-track-link="true" data-paste-text="true" href="https://www.zhihu.com/search?q=%E8%BF%91%E6%8C%87%E5%85%B3%E8%8A%82%E8%82%BF&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D" target="_blank">近指关节肿</a></span>至少６周；</u>_
+
+_<u>④ 对称性关节肿至少６周；</u>_
+
+_<u>⑤ 有皮下结节；</u>_
+
+_<u>⑥ <span><a data-za-not-track-link="true" data-paste-text="true" href="https://www.zhihu.com/search?q=%E7%B1%BB%E9%A3%8E%E6%B9%BF%E5%9B%A0%E5%AD%90%E9%98%B3%E6%80%A7&amp;search_source=Entity&amp;hybrid_search_source=Entity&amp;hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D" target="_blank">类风湿因子阳性</a></span>（滴度＞1：32）。</u>_
+
+_<u>⑦ 手Ｘ线摄片改变（至少有骨质稀疏和关节间隙的狭窄）</u>_。
+
+如果仅仅是有持续6周以上的多个关节（尤其是小关节）[晨僵](https://www.zhihu.com/search?q=%E6%99%A8%E5%83%B5&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A1683802523%7D)就需要引起足够重视，到医院接受进一步诊断。虽然总体发病率并不特别高，但如果延误治疗或者治疗水平不达标，付出的代价实在是太过惨重。建议大家记住这些自我诊断的tips，并且提醒周围亲友，如有这种情况尽早就医。
+
+最后，只有达标治疗才能有效控制类风湿性关节炎的病情进展。虽然病人的主观感觉非常重要，患者报告的临床结局(PRO量表)在国内外的诊疗指南中都占有重要地位，但病人感觉良好并不一定达标。
+
+**治疗效果到底够不够，不仅要病人觉得，更要从多个维度衡量做到真正的达标。**
+
+## 参考
+
+1.  ^<sup><a href="https://www.zhihu.com/question/21343107#ref_1_0" data-reference-link="true">a</a></sup><sup><a href="https://www.zhihu.com/question/21343107#ref_1_1" data-reference-link="true">b</a></sup><sup><a href="https://www.zhihu.com/question/21343107#ref_1_2" data-reference-link="true">c</a></sup>中华医学会风湿病学分会. 2018中国类风湿关节炎诊疗指南\[J\]. 中华内科杂志, 2018(4):242-251.
+2.  [^](https://www.zhihu.com/question/21343107#ref_2_0)周云杉, 王秀茹, 安媛,等. 全国多中心类风湿关节炎患者残疾及功能受限情况的调查\[J\]. 中华风湿病学杂志, 2013, 17(8):526-532.
+3.  [^](https://www.zhihu.com/question/21343107#ref_3_0)Smolen, J. S. et al. EULAR recommendations for the management of rheumatoid arthritis with synthetic and biological disease-modifying antirheumatic drugs: 2019 update. Ann. Rheum. Dis.
+4.  [^](https://www.zhihu.com/question/21343107#ref_4_0)葛均波，徐永健. 内科学\[M\]. 8版. 北京：人民卫生出版社，2019.
+5.  [^](https://www.zhihu.com/question/21343107#ref_5_0)姚骥如, 孙莹, 罗顺葵,等. 雷公藤多苷的临床应用进展\[J\]. 中国新药与临床杂志, 2010, 29(003):179-182.
+6.  [^](https://www.zhihu.com/question/21343107#ref_6_0)Chatzidionysiou K , Emamikia S , Nam J , et al. Efficacy of glucocorticoids, conventional and targeted synthetic disease-modifying antirheumatic drugs: a systematic literature review informing the 2016 update of the EULAR recommendations for the management of rheumatoid arthritis.\[J\]. Annals of the Rheumatic Diseases, 2017:1102.
